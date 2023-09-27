@@ -1,0 +1,73 @@
+/* body{
+    background-image: url("https://img.freepik.com/free-photo/futuristic-office-illuminated-by-blue-lighting-equipment-night-generated-by-ai_188544-27893.jpg?t=st=1695833370~exp=1695836970~hmac=456cd6237e41044ac1ea2b703bc3860ffe4e4d99f6b56a2cdf63d9cc63ad16c8&w=1060");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 470px;
+}
+h1{
+    text-align: center;
+    font-size: 80px;
+    margin-top: 350px;
+    color: white;
+} */
+
+/* body {
+    background-image: url("https://img.freepik.com/free-photo/futuristic-office-illuminated-by-blue-lighting-equipment-night-generated-by-ai_188544-27893.jpg?t=st=1695833370~exp=1695836970~hmac=456cd6237e41044ac1ea2b703bc3860ffe4e4d99f6b56a2cdf63d9cc63ad16c8&w=1060");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+h1 {
+    text-align: center;
+    font-size: 80px;
+    color: white;
+} */
+body {
+    background-image: url("https://img.freepik.com/free-photo/futuristic-office-illuminated-by-blue-lighting-equipment-night-generated-by-ai_188544-27893.jpg?t=st=1695833370~exp=1695836970~hmac=456cd6237e41044ac1ea2b703bc3860ffe4e4d99f6b56a2cdf63d9cc63ad16c8&w=1060");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+h1 {
+    font-size: 6rem;
+    color: white;
+    margin-bottom: 1rem;
+}
+
+p {
+    font-size: 1.5rem;
+    color: #f2f2f2;
+    margin-bottom: 2rem;
+}
+
+a {
+    text-decoration: none;
+    background-color: #007BFF;
+    color: white;
+    padding: 0.5rem 1rem;
+    border-radius: 5px;
+    font-weight: bold;
+    transition: background-color 0.3s;
+}
+
+a:hover {
+    background-color: #0056b3;
+}
